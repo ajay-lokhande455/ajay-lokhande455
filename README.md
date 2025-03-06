@@ -79,11 +79,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ajay-lokhande455&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=ajay-lokhande455&icon=9&color=0)](https://visitcount.itsvg.in)
 
 </div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
@@ -121,4 +116,5 @@
 
 
 <center><img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" /></center>
+
 
